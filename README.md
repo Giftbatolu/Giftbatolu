@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
   Personalized GitHub Profile README for Oyelami Sekinat (@giftbatolu)
   Passionate about HealthTech, Backend Development, Data Science & Content Creation
@@ -115,3 +113,7 @@ This is a mindset I live by as I challenge myself every day in this tech journey
 - Tech content creation and storytelling
 
 ---
+
+## ✨ Thank You for Visiting!
+
+> I may be early in my journey, but I’m committed to **growing, building, and creating impact** every single day. Let’s connect, collaborate, and innovate for better healthcare and education.
